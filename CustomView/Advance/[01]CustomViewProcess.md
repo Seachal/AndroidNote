@@ -113,9 +113,9 @@ View的构造函数有四种重载分别如下:
 
 | 模式          | 二进制数值 | 描述                                     |
 | ----------- | :---: | -------------------------------------- |
-| UNSPECIFIED |  00   | 默认值，父控件没有给子view任何限制，子View可以设置为任意大小。    |
-| EXACTLY     |  01   | 表示父控件已经确切的指定了子View的大小。                 |
-| AT_MOST     |  10   | 表示子View具体大小没有尺寸限制，但是存在上限，上限一般为父View大小。 |
+| UNSPECIFIED（未指定） |  00   | 默认值，父控件没有给子view任何限制，子View可以设置为任意大小。     |
+| EXACTLY （精确）    |  01   | 表示父控件已经确切的指定了子View的大小。   `mactch_parent`、 `具体值：如32dp`             |
+| AT_MOST （至多）    |  10   | 表示子View具体大小没有尺寸限制，但是存在上限，上限一般为父View大小。`wrap_content` |
 
 **在int类型的32位二进制位中，31-30这两位表示测量模式,29~0这三十位表示宽和高的实际值，实际上如下：**
 
@@ -128,6 +128,7 @@ View的构造函数有四种重载分别如下:
 | AT_MOST     |   10 | 000000000000000000001111011000 |
 
 **PS: 实际上关于上面的东西了解即可，在实际运用之中只需要记住有三种模式，用 MeasureSpec 的 getSize是获取数值， getMode是获取模式即可。**
+
 
 #### 注意：
 **如果对View的宽高进行修改了，不要调用*super.onMeasure(widthMeasureSpec,heightMeasureSpec);*要调用*setMeasuredDimension(widthsize,heightsize);* 这个函数。**
