@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:1-43:12
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:1-43:12
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:1-43:12
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:1-43:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/17c0d8d4824fc2c9d8e15bcff2240914/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/seachal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9bbf7f0ed09ad444897cf27c58c1d225/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/e3f576108f30fbc59183bdd6843c418a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/ae9a24cd50e0fa9829491d0a147f7cff/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/ee1f8a05254726218a727c54ba23b45d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/2e38da959fb5a7e31c713157fc846498/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/aad704a4f4374961d0dae7ce1cc0bce6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/02e4f546e54a006c6d2a66a0e9afa25d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d4183f7d45db3426085bc0215f61015a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/6305311257bdd4e52eb1055ce19a1b17/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:1-43:12
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:1-43:12
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:1-43:12
+	package
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:25:11-45
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:1-43:12
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:1-43:12
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:24:11-69
+application
+ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:27:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/17c0d8d4824fc2c9d8e15bcff2240914/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/17c0d8d4824fc2c9d8e15bcff2240914/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/seachal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9bbf7f0ed09ad444897cf27c58c1d225/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/seachal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9bbf7f0ed09ad444897cf27c58c1d225/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/e3f576108f30fbc59183bdd6843c418a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/e3f576108f30fbc59183bdd6843c418a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/ae9a24cd50e0fa9829491d0a147f7cff/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/ae9a24cd50e0fa9829491d0a147f7cff/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/ee1f8a05254726218a727c54ba23b45d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/ee1f8a05254726218a727c54ba23b45d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/2e38da959fb5a7e31c713157fc846498/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/2e38da959fb5a7e31c713157fc846498/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/aad704a4f4374961d0dae7ce1cc0bce6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/aad704a4f4374961d0dae7ce1cc0bce6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/02e4f546e54a006c6d2a66a0e9afa25d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/02e4f546e54a006c6d2a66a0e9afa25d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d4183f7d45db3426085bc0215f61015a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d4183f7d45db3426085bc0215f61015a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/6305311257bdd4e52eb1055ce19a1b17/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/6305311257bdd4e52eb1055ce19a1b17/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:30:9-41
+	android:roundIcon
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:31:9-54
+	android:icon
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:33:9-40
+activity#com.gcssloop.failingcube.MainActivity
+ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:34:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/17c0d8d4824fc2c9d8e15bcff2240914/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/17c0d8d4824fc2c9d8e15bcff2240914/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/seachal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9bbf7f0ed09ad444897cf27c58c1d225/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/seachal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9bbf7f0ed09ad444897cf27c58c1d225/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/e3f576108f30fbc59183bdd6843c418a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/e3f576108f30fbc59183bdd6843c418a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/ae9a24cd50e0fa9829491d0a147f7cff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/ae9a24cd50e0fa9829491d0a147f7cff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/ee1f8a05254726218a727c54ba23b45d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/ee1f8a05254726218a727c54ba23b45d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/2e38da959fb5a7e31c713157fc846498/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/2e38da959fb5a7e31c713157fc846498/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/aad704a4f4374961d0dae7ce1cc0bce6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/aad704a4f4374961d0dae7ce1cc0bce6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/02e4f546e54a006c6d2a66a0e9afa25d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/02e4f546e54a006c6d2a66a0e9afa25d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d4183f7d45db3426085bc0215f61015a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d4183f7d45db3426085bc0215f61015a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/6305311257bdd4e52eb1055ce19a1b17/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/6305311257bdd4e52eb1055ce19a1b17/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] /Users/seachal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/17c0d8d4824fc2c9d8e15bcff2240914/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+		ADDED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml
+		INJECTED from /Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/src/main/AndroidManifest.xml

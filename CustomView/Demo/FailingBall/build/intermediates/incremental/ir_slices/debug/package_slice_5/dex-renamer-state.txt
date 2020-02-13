@@ -1,0 +1,4 @@
+#Wed Jan 16 22:38:37 CST 2019
+base.0=/Users/seachal/Documents/SeachalGit/Android/AndroidNote/CustomView/Demo/FailingBall/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
