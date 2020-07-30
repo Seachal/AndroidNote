@@ -507,7 +507,7 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
 1. **事件分发原理: 责任链模式，事件层层传递，直到被消费。**
 2. **View 的 `dispatchTouchEvent` 主要用于调度自身的监听器和 onTouchEvent。**
 3. **View的事件的调度顺序是 onTouchListener > onTouchEvent > onLongClickListener > onClickListener 。**
-4. **不论 View 自身是否注册点击事件，只要 View 是可点击的就会消费事件。**
+4. **不论 View 自身是否注册点击事件（sca: click 事件），只要 View 是可点击的就会消费事件。**
 5. **事件是否被消费由返回值决定，true 表示消费，false 表示不消费，与是否使用了事件无关。**
 6. **ViewGroup 中可能有多个 ChildView 时，将事件分配给包含点击位置的 ChildView。**
 7. **ViewGroup 和 ChildView 同时注册了事件监听器(onClick等)，由 ChildView 消费。**
