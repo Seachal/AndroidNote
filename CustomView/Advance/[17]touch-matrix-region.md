@@ -519,6 +519,8 @@ public class RemoteControlMenu extends CustomView {
 
 当手指在某一区域活动时，该区域会高亮显示，如果注册了监听器，点击某一区域会触发监听器回调。
 
+> 案例地址 [Seachal/ViewSupport: View辅助工具包，帮助你快速优雅的完成自定义View](https://github.com/Seachal/ViewSupport) 
+
 
 
 ## 关于硬件加速的问题
